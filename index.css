@@ -11,15 +11,10 @@
       background-color: rgb(175, 221, 248);
   }
   #mainContainer{
-      width: 75%;
       height: 600px;
       background-color: #fff;
       margin: auto;
-     margin-top: 15px;
      display: flex;
-     justify-content: center;
-     align-items: center;
-
   }
   #left
   {
