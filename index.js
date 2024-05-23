@@ -1,5 +1,5 @@
 
-let city="Madanapalle";
+let city="Noida";
 let container = document.getElementById("container");
 
 async function getWeather()
