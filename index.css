@@ -14,7 +14,8 @@
       height: 600px;
       background-color: #fff;
       margin: auto;
-     display: flex;
+      display: flex;
+      margin-top: 5%;
   }
   #left
   {
